@@ -20,6 +20,11 @@ File guide:
 - `03-paper-table.csv`
   A flat table of the filtered papers with conference, category, authors, and summary.
 
+Repository helper:
+
+- `../scripts/start-codex-with-github-mcp.sh`
+  Helper launcher for starting Codex with GitHub MCP token injection.
+
 Scope notes:
 
 - No paper in this set explicitly mentions `Ceph` in the public title or abstract.
